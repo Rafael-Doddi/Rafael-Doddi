@@ -34,8 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Doddi">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Doddi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Doddi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Doddi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Doddi&layout=compact&theme=dracula"/>
 </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Rafael-Doddi&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
