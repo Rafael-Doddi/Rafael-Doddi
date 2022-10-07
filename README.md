@@ -38,5 +38,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Doddi&layout=compact&theme=dracula"/>
 </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rafael-Doddi&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rafael-Doddi&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
