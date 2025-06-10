@@ -7,7 +7,7 @@
   <br>
   💻 Amo aprender novas tecnologias.
   <br>
-  🎓 Cursando Segurança da Informação na FATEC São Caetano do Sul.
+  🎓 Segurança da Informação na FATEC São Caetano do Sul.
   <br>
 </p>
 
